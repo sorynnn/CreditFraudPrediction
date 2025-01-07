@@ -19,7 +19,7 @@ This repository contains a project aimed at detecting credit card fraud using va
 The dataset used for this project was obtained from the [Kaggle Credit Card Fraud Detection Dataset](https://www.kaggle.com/mlg-ulb/creditcardfraud), containing anonymized transaction details and a class label indicating fraud. Due to the large size of the dataset, please download from Kaggle to replicate.
 
 ## Results
-- Each model was assessed based on precision, recall, F1-score, and AUC-ROC.
+- Each model was assessed based on precision and recall that can be found in a confusion matrix in the findings PDF.
 - Isolation Forest was used for unsupervised anomaly detection, offering insights into fraud patterns.
 
 
